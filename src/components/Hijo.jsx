@@ -8,3 +8,10 @@ export const Hijo = ({ title, text }) => {
     </div>
   );
 };
+
+// function func1(someBoolean) {
+//   if (someBoolean) {
+//     return doAnotherThing();
+//   }
+//   return doSomething()
+// }
